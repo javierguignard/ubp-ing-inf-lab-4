@@ -7,12 +7,13 @@
 
 Espacio destinado a subir los trabajos prácticos a realizar en la asignatura de Laboratorio 4, correspondiente al cuarto ciclo de la carrera  Ingeniería Informática de la Universidad Blas Pascal.  
 Este documento está en constante desarrollo, por lo cuál, podrás ver que hay trabajos prácticos propuestos que aún no han sido elaborados (están tachados) 
+
 ---
+
 
 # Tabla de contenidos
 
-
-1. Trabajo Práctico N° 1: Sistemas de control de versiones.
+1. [Trabajo Práctico N° 1: Sistemas de control de versiones.](#trabajo-práctico-n-1-sistemas-de-control-de-versiones)
 1. ~~Trabajo Práctico N° 2: Conteinerización.~~
 1. ~~Trabajo Práctico N° 3: Webservices.~~
 1. ~~Trabajo Práctico N° 4: NoSQL DB.~~
