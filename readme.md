@@ -83,7 +83,7 @@ Para algunos de los puntos proveer imágenes o videos.
 
 #### 7- Crear Repositorio de la materia
   - Crear un repositorio para la materia en github. Por ejemplo **ing-lab-4** (Diferente al de este trabajo práctico)
-  - Subir archivo(s) .md con los resultados, imágenes y/o videos de este trabajo práctico. Puede ser en una subcarpeta **trabajo-practico-01** con su propia rama.
+  - Subir archivo(s) .md con los resultados, imágenes y/o videos de este trabajo práctico a ese repositorio. Puede ser en una subcarpeta **trabajo-practico-01**, con su propia rama, como mas le guste, pero en el README.md deberán explicar como encuentro el resultado.
   
 
 
