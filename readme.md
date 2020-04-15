@@ -14,7 +14,7 @@ Este documento está en constante desarrollo, por lo cuál, podrás ver que hay 
 # Tabla de contenidos
 
 1. [Trabajo Práctico N° 1: Sistemas de control de versiones.](#trabajo-práctico-n-1-sistemas-de-control-de-versiones)
-1. ~~Trabajo Práctico N° 2: Conteinerización.~~
+1. Trabajo Práctico N° 2: Containers.(#trabajo-práctico-n-2-containers)
 1. ~~Trabajo Práctico N° 3: Webservices.~~
 1. ~~Trabajo Práctico N° 4: NoSQL DB.~~
 1. ~~Trabajo Práctico N° 5: Arquitectura de Microservicios.~~
@@ -94,4 +94,21 @@ Para algunos de los puntos proveer imágenes o videos.
 - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
  
+
+# Trabajo Práctico N° 2: Containers.
+
+### 1- Objetivos de Aprendizaje
+ - Utilizar herramientas de infraestructura de código.
+ - Acercar al estudiante a los estandares de la industria del software en tecnologiaes de deployment.
+ - Configurar el repositorio principal de cada alumno para la asignatura.
+
+### 2- Consignas a desarrollar en el trabajo práctico:
+  - Los ejercicios estan basados en la vivencia de los procesos de deployment de infraestructura en contenedores Docker.
+  - Documentar el proceso desarrollado utilizando las herramientas tecnológicas que creas necesarias.
+  
+### 3- Desarrollo:
+
+#### 1- Instalar Docker y su entorno
+
+  Instalar docker (https://docs.docker.com/install/) y docker-compose (https://docs.docker.com/compose/install/)
 
