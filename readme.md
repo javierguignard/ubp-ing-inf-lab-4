@@ -112,3 +112,26 @@ Para algunos de los puntos proveer imágenes o videos.
 
   Instalar docker (https://docs.docker.com/install/) y docker-compose (https://docs.docker.com/compose/install/)
 
+#### 2- Hacer un [Fork](https://help.github.com/es/github/getting-started-with-github/fork-a-repo) del repositorio del trabajo práctico (https://github.com/javierguignard/ubp-docker-example)
+
+Luego, clonar en su máquina local.
+
+#### 3- Resolver los 5 puntos pedidos, a saber:
+
+1. Agregar las variables de entorno necesarias para que la aplicacion "Flask" se conecte a MYSQL  
+2. Agregar php my admin a este docker-compose, y agregar nuevos varietales en la tabla wines del esquema drinks  
+3. Persistir el contenido de la base de datos mysql en disco  
+4. Hostear dos contenedores con la aplicación flask en puertos diferentes en el host (no hay que cambiar la aplicación)  
+5. Agregar al Dockerfile en ./app  la aplicación de linux "nano"
+
+#### Notas importantes
+* No es necesario modificar el código de python, pero si quieren agregar nuevas cosas en la api para conocer flask, es un extra.
+* No es necesario correr la aplicación python en su equipo, pero lo pueden hacer si instalan los requerimientos y ejecutan `python app/app.py`
+* Agreguen la variable de entorno NAME_HELLO con su nombre, en dockercompose para que el main del sitio los salude ;)
+
+### Referencias
+
+- https://hub.docker.com/r/phpmyadmin/phpmyadmin/
+- https://docs.docker.com/engine/reference/builder/
+- https://docs.docker.com/compose/
+- https://flask.palletsprojects.com/
