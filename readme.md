@@ -135,3 +135,4 @@ Luego, clonar en su máquina local.
 - https://docs.docker.com/engine/reference/builder/
 - https://docs.docker.com/compose/
 - https://flask.palletsprojects.com/
+- https://wiki.alpinelinux.org/wiki/Alpine_Linux_package_management Linux Alpine
