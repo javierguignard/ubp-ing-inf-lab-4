@@ -14,10 +14,12 @@ Este documento está en constante desarrollo, por lo cuál, podrás ver que hay 
 # Tabla de contenidos
 
 1. [Trabajo Práctico N° 1: Sistemas de control de versiones.](#trabajo-práctico-n-1-sistemas-de-control-de-versiones)
-1. [Trabajo Práctico N° 2: Containers.](#trabajo-práctico-n-2-containers)
+1. ~~[Trabajo Práctico N° 2: Containers.~~
 1. ~~Trabajo Práctico N° 3: Webservices.~~
 1. ~~Trabajo Práctico N° 4: NoSQL DB.~~
 1. ~~Trabajo Práctico N° 5: Arquitectura de Microservicios.~~
+
+
 
    
 # Trabajo Práctico N° 1: Sistemas de control de versiones.
@@ -93,7 +95,11 @@ Para algunos de los puntos proveer imágenes o videos.
 - https://github.github.com/training-kit/downloads/es_ES/github-git-cheat-sheet.pdf
 - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
+~~~
+<!-- 
  
+1. [Trabajo Práctico N° 2: Containers.](#trabajo-práctico-n-2-containers)
+
 
 # Trabajo Práctico N° 2: Containers.
 
@@ -136,3 +142,6 @@ Luego, clonar en su máquina local.
 - https://docs.docker.com/compose/
 - https://flask.palletsprojects.com/
 - https://wiki.alpinelinux.org/wiki/Alpine_Linux_package_management Linux Alpine
+
+-->
+~~~
